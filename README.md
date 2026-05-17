@@ -1,4 +1,4 @@
 # SI_2026_lab2_215039
 Марио Златановски 215039
 
-blob:https://app.diagrams.net/3915ca9a-59b8-4af1-8629-d758dbca09ee
+<img width="762" height="1001" alt="searchBookByTitle drawio" src="https://github.com/user-attachments/assets/f144eb6b-4f57-4757-a7e7-406885cfe8de" />
